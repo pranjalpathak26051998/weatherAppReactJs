@@ -7,4 +7,4 @@ module.exports = {
     base: "https://api.openweathermap.org/data/2.5/",
   };
   
-  // 471e136e0487f5c968090e9da10340fa
+  
